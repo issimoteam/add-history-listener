@@ -1,7 +1,7 @@
 ![size](https://img.shields.io/bundlephobia/minzip/@sebastbake/add-history-listener)
 ![downloads](https://img.shields.io/npm/dw/@sebastbake/add-history-listener)
 ![npm](https://img.shields.io/npm/v/@sebastbake/add-history-listener)
-![GitHub](https://img.shields.io/github/license/SebastBake/add-history-listener)
+![GitHub](https://img.shields.io/github/license/sebastbake/add-history-listener)
 
 # add-history-listener
 
