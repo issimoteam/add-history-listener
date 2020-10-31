@@ -1,6 +1,6 @@
 # add-history-listener
 
-This package provides a simple api to subscribe to browser history events. It's the window.
+This package provides a simple API to subscribe to browser history events.
 
 ```ts
 const cleanup = addHistoryListener((prev, next) => {
