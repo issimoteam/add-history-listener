@@ -1,6 +1,6 @@
 {
   "name": "@sebastbake/add-history-listener",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "repository": {
@@ -9,7 +9,7 @@
   },
   "scripts": {
     "build": "npx tsc",
-    "prepublishOnly": "npm run build",
+    "prepublishOnly": "npm run test & npm run build",
     "test": "npx ts-node ./test.ts"
   },
   "author": "",
