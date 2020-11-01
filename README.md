@@ -1,7 +1,9 @@
-![size](https://img.shields.io/bundlephobia/minzip/@sebastbake/add-history-listener)
-![downloads](https://img.shields.io/npm/dw/@sebastbake/add-history-listener)
-![npm](https://img.shields.io/npm/v/@sebastbake/add-history-listener)
-![GitHub](https://img.shields.io/github/license/sebastbake/add-history-listener)
+This package provides a simple api to subscribe to browser history events. It's the window.
+
+[![size](https://img.shields.io/bundlephobia/minzip/@sebastbake/add-history-listener)](https://bundlephobia.com/result?p=@sebastbake/add-history-listener)
+[![downloads](https://img.shields.io/npm/dw/@sebastbake/add-history-listener)](https://www.npmjs.com/package/@sebastbake/add-history-listener)
+[![npm](https://img.shields.io/npm/v/@sebastbake/add-history-listener)](https://www.npmjs.com/package/@sebastbake/add-history-listener)
+[![GitHub](https://img.shields.io/github/license/sebastbake/add-history-listener)](https://github.com/SebastBake/add-history-listener)
 
 # add-history-listener
 

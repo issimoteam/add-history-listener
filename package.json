@@ -1,7 +1,7 @@
 {
   "name": "@sebastbake/add-history-listener",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "Subscribe to browser history.",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -26,5 +26,6 @@
   "tags": [
     "history",
     "typescript"
-  ]
+  ],
+  "type":"module"
 }
