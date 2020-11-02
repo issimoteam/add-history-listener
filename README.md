@@ -1,4 +1,4 @@
-This package provides a simple api to subscribe to browser history events. It's the window.
+This package provides a simple api to subscribe to browser history events.
 
 [![size](https://img.shields.io/bundlephobia/minzip/@sebastbake/add-history-listener)](https://bundlephobia.com/result?p=@sebastbake/add-history-listener)
 [![downloads](https://img.shields.io/npm/dw/@sebastbake/add-history-listener)](https://www.npmjs.com/package/@sebastbake/add-history-listener)
