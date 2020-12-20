@@ -1,3 +1,5 @@
+# Deprecated in favour of [issimoteam/add-history-listener](https://github.com/issimoteam/add-history-listener)
+
 This package provides a simple api to subscribe to browser history events.
 
 [![size](https://img.shields.io/bundlephobia/minzip/@sebastbake/add-history-listener)](https://bundlephobia.com/result?p=@sebastbake/add-history-listener)
