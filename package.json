@@ -1,11 +1,11 @@
 {
-  "name": "@sebastbake/add-history-listener",
-  "version": "2.0.0",
+  "name": "@issimo/add-history-listener",
+  "version": "1.0.0",
   "description": "Subscribe to browser history.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SebastBake/add-history-listener.git"
+    "url": "git+https://github.com/issimoteam/add-history-listener.git"
   },
   "scripts": {
     "build": "npx tsc",
